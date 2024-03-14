@@ -1,0 +1,62 @@
+body{
+    margin-top: 5rem;
+    align-items: center;
+    text-align: center;
+}
+
+.emailinput{
+    border: 2px solid rgb(178, 178, 178);
+    height: 3rem;
+    width: 25rem;
+    border-radius: 20px;
+}
+
+.passwordinput{
+    border: 2px solid rgb(178, 178, 178);
+    height: 3rem;
+    width: 25rem;
+    border-radius: 20px;
+}
+.login{
+    border:0;
+    color:white;
+    background-color: rgb(47, 111, 228);
+    border-radius: 20px;
+    height: 3rem;
+    width: 25rem;
+}
+.check{
+    margin-left: -17rem;
+    text-align: left;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.line{
+    align-items: center;
+    width: 25rem;
+    margin: auto;
+}
+.btn {
+    background-color: light-green;
+    padding: 12px 16px;
+    font-size: 16px;
+}
+.google{
+    border:0;
+    color:white;
+    background-color:rgb(232, 78, 51);
+    border-radius: 20px;
+    height: 3rem;
+    width: 25rem;
+}
+.facebook{
+    border:0;
+    color:white;
+    background-color:rgb(53, 50, 193);
+    border-radius: 20px;
+    height: 3rem;
+    width: 25rem;
+}
+.fg{
+    color: blue;
+}
